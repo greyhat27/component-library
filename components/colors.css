@@ -1,0 +1,19 @@
+:root{
+    --primary-color: #1c8ccf;
+    --success-color: #198754;
+    --danger-color: #dc3545;
+    --warning-color: #e4ae0b;
+    --dark-color: #333;
+
+    --white-color: white;
+
+    --primary-alert-bg-color: #a9d7f3;
+    --success-alert-bg-color: #acf0d0;
+    --danger-alert-bg-color: #f1abb2;
+    --warning-alert-bg-color: #f7e7b9;
+    --dark-alert-bg-color: #c0b5b5;
+
+    --heading-color: rgb(73, 73, 73);
+    --text-color: rgb(99, 98, 98);
+    --background-color: #fff;
+}
